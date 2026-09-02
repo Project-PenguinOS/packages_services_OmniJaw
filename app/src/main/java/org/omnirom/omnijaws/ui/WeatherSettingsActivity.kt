@@ -31,7 +31,7 @@ import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
 import androidx.compose.ui.Modifier
 import com.android.internal.util.custom.OmniJawsClient
-import com.android.axion.compose.theme.AxionTheme
+import org.omnirom.omnijaws.compose.theme.AxionTheme
 
 class WeatherSettingsActivity : ComponentActivity(), OmniJawsClient.OmniJawsObserver {
 

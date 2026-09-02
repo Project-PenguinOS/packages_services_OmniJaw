@@ -55,8 +55,8 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
-import com.android.axion.compose.scaffold.AxionScaffold
-import com.android.axion.compose.theme.AxionTheme
+import org.omnirom.omnijaws.compose.scaffold.AxionScaffold
+import org.omnirom.omnijaws.compose.theme.AxionTheme
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.delay

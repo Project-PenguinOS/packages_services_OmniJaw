@@ -24,10 +24,10 @@ import androidx.compose.ui.res.stringArrayResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
 
-import com.android.axion.compose.preferences.ClickablePreference
-import com.android.axion.compose.preferences.ListPreference
-import com.android.axion.compose.preferences.PreferenceGroup
-import com.android.axion.compose.scaffold.AxionScaffold
+import org.omnirom.omnijaws.compose.preferences.ClickablePreference
+import org.omnirom.omnijaws.compose.preferences.ListPreference
+import org.omnirom.omnijaws.compose.preferences.PreferenceGroup
+import org.omnirom.omnijaws.compose.scaffold.AxionScaffold
 
 import org.omnirom.omnijaws.R
 
